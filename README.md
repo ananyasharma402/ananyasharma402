@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananya Sharma</h1>
 <h3 align="center">A passionate Software Engineer student from India</h3>
 
-![image](https://github.com/user-attachments/assets/eb6b19eb-5033-48aa-8eb5-c8b1385116e3)
+![image](https://github.com/user-attachments/assets/a0cf706d-1e55-4276-8cac-b361a913e09b)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyasharma402&label=Profile%20views&color=0e75b6&style=flat" alt="ananyasharma402" /> </p>
 
